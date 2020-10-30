@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Adidas</title>
+  <link href="https://fonts.googleapis.com/css2?family=Enriqueta:wght@600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+<div class="container">
+  <div class="card">
+    <div class="adidas">
+      <div class="circle"></div>
+      <img src="../images/adidas.png" alt="adidas">
+    </div>
+    <div class="info">
+      <h1 class="title">Adidas Shirt</h1>
+      <h3>SPORTS READY WITH A SMART SHIRT</h3>
+      <div class="sizes">
+        <button>S</button>
+        <button>M</button>
+        <button class="active">L</button>
+        <button>XL</button>
+      </div>
+      <div>
+        <div class="buy">
+          <button>Buy</button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+  <script src="../js/app.js"></script>
+</body>
+</html>
